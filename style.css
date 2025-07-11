@@ -32,3 +32,14 @@
     text-align: center;
     margin-top: 5%;
 }
+
+.btncontacteznous{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
